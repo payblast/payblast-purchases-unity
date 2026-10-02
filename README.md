@@ -1,4 +1,4 @@
-# purchases-unity
+# payblast-purchases-unity
 
 Payblast Unity purchases SDK
 
